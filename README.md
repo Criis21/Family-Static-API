@@ -15,6 +15,8 @@
 
 1. Language
 2. Project instructions
+3. Installation
+4. Data structures
 
 ## 👩‍💻Language
 
@@ -53,13 +55,7 @@ The Jackson Family needs a static API! We need to build the *data structures* an
 
 5. Test your code by running `$ pipenv run test`
 
-## ✅ Automatic grading
-
-Test your code by running `$ pipenv run test`
-
-
-
-## :construction_site: Data structures
+## 🏗️ Data structures
 
 Every **member** of the Jackson family must be a dictionary - equivalent of [Objects Literals in JS](https://www.dyn-web.com/tutorials/object-literal/) - and have these values:
 

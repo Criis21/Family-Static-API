@@ -1,6 +1,45 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) Family Static API
+<p align="center">
+	<img
+		width="300"
+		alt="4Geeks Academy"
+		src="https://github.com/4GeeksAcademy/About-4Geeks-Academy/blob/master/site/static/background_art.jpg?raw=true">
+</p>
+
+
+<h1 align="center">Welcome to 4Geeks Academy</h1>
+
+
+<h3 align="center">&lt;Family Static API&gt;</h3>
+
+## Content
+
+1. Language
+2. Project instructions
+
+## 👩‍💻Language
+
+<p>This project contains:</p>
+
+<ol>
+    <li>Python</li>
+    <li>API</li>
+    <li>Flask</li>
+    <li>JSON</li>
+    <li>Data-structures</li>
+</ol>
+
+## 📝Proyect instructions
 
 The Jackson Family needs a static API! We need to build the *data structures* and create API endpoint to interact with it using Postman.
+
+1) Create the code needed to implement the API endpoints described further below.  
+
+2) The only two files you have to edit are:  
+
+- `src/datastructure.py`: Contains the class with the rules on how to manage the fammily members.  
+- `src/app.py`: Contains the API, it uses the Family as datastructure. 
+	
+3) We have prepared a set of automated tests that will give you an idea if your code is correct, run the tests by typing `$ pipenv run tests` on the command line.  
 
 ## 💻 Installation
 
@@ -18,18 +57,9 @@ The Jackson Family needs a static API! We need to build the *data structures* an
 
 Test your code by running `$ pipenv run test`
 
-## 📝 Instructions
 
-1) Create the code needed to implement the API endpoints described further below.  
 
-2) The only two files you have to edit are:  
-
-- `src/datastructure.py`: Contains the class with the rules on how to manage the fammily members.  
-- `src/app.py`: Contains the API, it uses the Family as datastructure. 
-	
-3) We have prepared a set of automated tests that will give you an idea if your code is correct, run the tests by typing `$ pipenv run tests` on the command line.  
-
-## Data structures
+## :construction_site: Data structures
 
 Every **member** of the Jackson family must be a dictionary - equivalent of [Objects Literals in JS](https://www.dyn-web.com/tutorials/object-literal/) - and have these values:
 
